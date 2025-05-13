@@ -10274,7 +10274,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.desc=These make fiery blood.
 
 # Quest: Ur-Ghast
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=Ur-Ghast
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=Need a lot of magical wood? Well this bee produces carminite.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=Need a lot of magical wood? Well this bee produces carminite.%n%nYou'll need to chisel a thaumium block to get the right kind you need.
 
 # Quest: Snow Queen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.name=Snow Queen
